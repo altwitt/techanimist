@@ -1,2 +1,2 @@
 # techanimist
-Home Page made with Notion
+Home Page 
